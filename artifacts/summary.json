@@ -1,0 +1,18 @@
+{
+  "best_model": "XGBoost",
+  "selected_by": "5-fold CV ROC-AUC (train partition)",
+  "test_metrics": {
+    "Accuracy": 0.9867,
+    "Precision": 0.9885,
+    "Recall": 0.9885,
+    "F1 Score": 0.9885,
+    "ROC-AUC": 0.9996,
+    "MCC": 0.9726,
+    "CV ROC-AUC (mean)": 0.9955,
+    "CV ROC-AUC (std)": 0.001
+  },
+  "seed": 42,
+  "n_rows": 1000,
+  "n_train": 700,
+  "n_test": 300
+}

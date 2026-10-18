@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# stray model pickles (the app uses artifacts/model_bundle.joblib)
+artifacts/*.pkl
+
+.idea/
